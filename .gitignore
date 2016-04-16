@@ -26,3 +26,4 @@ __pycache__
 *.png
 *.tar.gz
 *.pickle
+*.zip
